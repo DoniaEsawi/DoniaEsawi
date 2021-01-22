@@ -39,7 +39,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEsawi&theme=jolly)  <img src="https://octodex.github.com/images/femalecodertocat.png" alt="gitcat" style=" margin-right: 10px; padding-top: 50px;" width="260px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEsawi&theme=jolly)  <img src="https://octodex.github.com/images/femalecodertocat.png" alt="gitcat" style=" margin-top: 80px; padding-top: 50px;" width="260px" />
 
 
 <br>
