@@ -49,7 +49,7 @@
 <img align="center" src="https://i.pinimg.com/originals/d2/3a/25/d23a25e799613ef9e8ddbd2837135de9.gif"  alt="running animation">
 
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="40px">
 
   <a href="https://www.linkedin.com/in/donya-esawi-858719191/">
     <img align="left" alt="Donya Esawi | Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -76,4 +76,9 @@
 
 
 
-## ⭐️ From [DoniaEsawi](https://github.com/DoniaEsawi)
+
+<p align="center">
+   <br/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
