@@ -54,16 +54,16 @@
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/donya-esawi-858719191/">
-    <img align="left" alt="Donya Esawi | Linkedin" width="24px" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left" alt="Donya Esawi | Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/DoniiaEssawi">
-    <img align="left" alt="Doniia Essawi | Twitter" width="26px" src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img align="left" alt="Doniia Essawi | Twitter" src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/donya_a.fattah/?hl=en">
-    <img align="left" alt="Donia A.Fattah | Instagram" width="24px" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img align="left" alt="Donia A.Fattah | Instagram"  src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a> &nbsp;&nbsp;
   <a href="mailto:donya.esawi@gmail.com">
-    <img align="left" alt="Donia Esawy | Gmail" width="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="left" alt="Donia Esawy | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/donya_esawi">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
