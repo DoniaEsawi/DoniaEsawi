@@ -5,7 +5,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
 
-###  Hello world!&nbsp;<img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" width="50px">
+###  Hello world!&nbsp;<img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" width="30px">
 
 
 <p>
