@@ -70,7 +70,6 @@
 
 <br><br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DoniaEsawi)
 
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
 
@@ -79,6 +78,8 @@
 
 <p align="center">
    <br/>
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DoniaEsawi)
+<br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
