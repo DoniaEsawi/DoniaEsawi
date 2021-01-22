@@ -1,4 +1,4 @@
-# Donia Esawy !&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Donia Esawy !&nbsp;<img src="https://i.pinimg.com/originals/0f/44/d3/0f44d3a07542df3ca9d29935bab18800.gif" width="30px">
 
 
 <!-- 
@@ -67,8 +67,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/donya_esawi">
-   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
-    </a>
+   <img align="left" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
+   </a>
 
 <br><br>
 
