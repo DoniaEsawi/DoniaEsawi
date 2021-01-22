@@ -34,7 +34,8 @@
 <br>
 
 
-![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://i.pinimg.com/originals/c8/1d/4b/c81d4bf64815f6769cab842e08c28b08.gif" alt="miniona" style="float: left; margin-right: 10px;" width="300px" />
+
 
 <br>
 
