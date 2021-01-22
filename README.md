@@ -35,11 +35,8 @@
 
 
 ![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp; <img src="https://i.pinimg.com/originals/c8/1d/4b/c81d4bf64815f6769cab842e08c28b08.gif" alt="minion" style=" margin-left: 50px;" width="300px" />
-
-
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEsawi&theme=jolly)  <img src="https://octodex.github.com/images/femalecodertocat.png" alt="gitcat" style=" margin-top: 80px; padding-top: 50px;" width="260px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEsawi&theme=jolly)  <img src="https://octodex.github.com/images/femalecodertocat.png" alt="gitcat" style=" margin-top: 80px; padding-top: 50px;" width="280px" />
 
 
 <br>
