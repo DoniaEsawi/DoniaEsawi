@@ -32,11 +32,11 @@
 
 
 <br>
-
+<h1 align="center">
 
 ![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp; <img src="https://i.pinimg.com/originals/c8/1d/4b/c81d4bf64815f6769cab842e08c28b08.gif" alt="minion" style=" margin-left: 50px;" width="300px" />
 <br>
-<h1  align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoniaEsawi&theme=jolly)  <img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
 
 </h1>
@@ -52,7 +52,7 @@
 </h1>
 
 # Connect with me<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="40px">
-<h1  align="center">
+<h1 align="center">
   <a href="https://www.linkedin.com/in/donya-esawi-858719191/">
     <img align="left" alt="Donya Esawi | Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;&nbsp;
