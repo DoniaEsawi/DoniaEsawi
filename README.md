@@ -69,7 +69,12 @@
    </a>
 
 <br><br>
+<h1 align="center">
 
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
+ </h1>
+<h1 align="center">
 
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
 
