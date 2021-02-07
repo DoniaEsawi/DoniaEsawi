@@ -75,7 +75,7 @@
 
 <h1 align="center">
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DoniaEsawi)
+ ![visitors]![Visitor Count](https://profile-counter.glitch.me/DoniaEsawi/count.svg)
  
  </h1>
 <h1 align="center">
