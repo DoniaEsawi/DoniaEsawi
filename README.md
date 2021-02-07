@@ -75,7 +75,7 @@
 
 <h1 align="center">
 
- ![visitors]![Visitor Count](https://profile-counter.glitch.me/DoniaEsawi/count.svg)
+ ![visitors](https://profile-counter.glitch.me/DoniaEsawi/count.svg)
  
  </h1>
 <h1 align="center">
