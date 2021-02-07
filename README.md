@@ -73,9 +73,11 @@
 
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
 
-
+<p align="center">
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DoniaEsawi)
+ 
+ </p>
 <p align="center">
    <br/>
    
