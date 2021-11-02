@@ -10,22 +10,18 @@
 
 <p>
   <em>
-    I am a 2nd Year undergraduate from <a href="http://eng.cu.edu.eg/en/"> <b>Faculty of Engineering Cairo University</b>, Giza</a>. <br>
-    <br>
-    Core Team member at <a href="https://www.facebook.com/DSCCUFE2021/"> <b>DSC CairoUniversity Powered by Google Developers</b></a><br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    I Love <b>Web Development</b>, Design and Python ^_^ . <br>
+    First of all, I love coding. From the moment I wrote my first program in c++ and manipulated it to print "Hello world" till this moment. My second main passion is that I love designing UI. For me, the more beautiful the app looked, the more time the user liked to spend in. So, mixing between a clean, well organized code and a beautiful, user-friendly app design is my main goal in my career.
+
+I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsessed with the idea of improving herself and wants a platform to grow and excel.
+
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Front End Development, Data Science and OOP** and currently learning **Backend Development, Flutter**💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **DataScience & Python 🐍 projects** or **Web Projects**.🌐
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Flutter mobile apps development, Front End Development, UI** and currently learning **Backend Development, Flutter**💪.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Flutter projects** or **Web Projects**.🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think Ghosts 👻 exist.**
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
 <br>
