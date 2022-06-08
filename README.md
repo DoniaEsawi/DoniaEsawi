@@ -1,4 +1,4 @@
-# Donia Esawy |&nbsp;<img src="https://i.pinimg.com/originals/0f/44/d3/0f44d3a07542df3ca9d29935bab18800.gif" width="50px">
+# Donia Esawy 
 
 
 <!-- 
@@ -17,21 +17,12 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
   </em>  
 </p>
 
-<br>
-
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> *currently* **sleeping** 😴 or *working* on my **laptop** 👩‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Flutter mobile apps development, Front End Development.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **Flutter projects** or **Web Projects**.🌐
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think Ghosts 👻 exist.**
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👩‍💻.
-<br>
 
 
 <br>
 <h1 align="left">
 
 ![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;
-<img src="https://i.pinimg.com/originals/c8/1d/4b/c81d4bf64815f6769cab842e08c28b08.gif" alt="minion" style=" margin-left: 50px;" width="300px" />
 
 <br>
 
