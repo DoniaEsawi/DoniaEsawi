@@ -1,30 +1,26 @@
-# Hi, this is Donia Esawy 
+# Hi, this is Donia 
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
 
-<table>
-        <td>
-<img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" >
-        </td>
-        <td>
- <p >First of all, I love coding. From the moment I wrote my first program in c++ and manipulated it to print "Hello world" till this moment. My second main passion is that I love designing UI. For me, the more beautiful the app looked, the more time the user liked to spend in. So, mixing between a clean, well organized code and a beautiful, user-friendly app design is my main goal in my career.
+ <img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" align="left" width="120" hspace="5" vspace="10">
+First of all, I love coding. From the moment I wrote my first program in c++ and manipulated it to print "Hello world" till this moment. My second main passion is that I love designing UI. For me, the more beautiful the app looked, the more time the user liked to spend in. So, mixing between a clean, well organized code and a beautiful, user-friendly app design is my main goal in my career.
 I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsessed with the idea of improving herself and wants a platform to grow and excel.</p>
-        </td>
-</table>
 
 <br>
 
 <br>
-<h1 align="left">
+<div align="center">
 
-![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;<img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
+
+![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;
+<img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
 
 <br>
+</div>
 
-</h1>
 <br>
 
 ## Languages and Tools:
