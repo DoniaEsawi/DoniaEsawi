@@ -40,21 +40,13 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
   </a>&nbsp;&nbsp;
   <a href="mailto:donya.esawi@gmail.com">
     <img align="left" alt="Donia Esawy | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-   &nbsp;&nbsp;
-     <a href="https://www.facebook.com/donya.abdelfattah">
+  </a>&nbsp;&nbsp;<a href="https://www.facebook.com/donya.abdelfattah">
    <img align="left" alt="FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> 
-   </a>
-   &nbsp;&nbsp;
-  <a href="https://twitter.com/DoniiaEssawi">
+   </a>&nbsp;&nbsp;<a href="https://twitter.com/DoniiaEssawi">
     <img align="left" alt="Doniia Essawi | Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a> 
-   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/donya_a.fattah/?hl=en">
+  </a>&nbsp;&nbsp;<a href="https://www.instagram.com/donya_a.fattah/?hl=en">
     <img align="left" alt="Donia A.Fattah | Instagram"  src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a> 
-   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/donya_esawi">
+  </a> &nbsp;&nbsp;<a href="https://www.hackerrank.com/donya_esawi">
    <img align="left" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
    </a>
 
