@@ -12,6 +12,8 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 <br>
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;<img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
 
