@@ -19,7 +19,7 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 
 **🐱 My GitHub Data** 
 
-> 📦 203.4 kB Used in GitHub's Storage 
+> 📦 203.5 kB Used in GitHub's Storage 
  > 
 > 🏆 132 Contributions in the Year 2023
  > 
@@ -85,7 +85,7 @@ PHP                      2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 03/06/2023 18:34:33 UTC
+ Last Updated on 04/06/2023 18:34:22 UTC
 <!--END_SECTION:waka-->
 
 ![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;<img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
