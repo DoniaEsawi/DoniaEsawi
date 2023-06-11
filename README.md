@@ -19,7 +19,7 @@ I am a friendly Neighborhood Developer and a Learning Enthusiast, who is obsesse
 
 **🐱 My GitHub Data** 
 
-> 📦 203.5 kB Used in GitHub's Storage 
+> 📦 207.9 kB Used in GitHub's Storage 
  > 
 > 🏆 132 Contributions in the Year 2023
  > 
@@ -71,17 +71,17 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     8 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.78 % 
-Jupyter Notebook         7 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.56 % 
-C                        4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.89 % 
-Python                   4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.89 % 
-PHP                      2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.44 % 
+Dart                     8 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.39 % 
+Jupyter Notebook         7 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.22 % 
+C                        4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.70 % 
+Python                   4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.70 % 
+PHP                      2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.35 % 
 ```
 
 
 
 
- Last Updated on 10/06/2023 18:34:18 UTC
+ Last Updated on 11/06/2023 18:34:09 UTC
 <!--END_SECTION:waka-->
 
 ![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;<img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
