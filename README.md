@@ -2,14 +2,17 @@
 <H1>
    Hello Tech Wizards <img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif"  height="50">, this is Donia!
 </H1>
-    
 </div>
-
  <div align="center">As a highly motivated computer engineer, I am passionate about creating user-friendly web and mobile applications. My focus on creativity and innovation has led me to specialize in using Flutter and Adobe XD to design unique and engaging user experiences that exceed expectations. I am always eager to learn new technologies and frameworks to further improve my skills and stay up-to-date with industry trends.</p>
 </div>
-<br>
-<br>
-<br>
+
+<div align="center">
+
+![Donya's github stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true) <img src="https://i.ibb.co/N6KtFTw/femalecodertocat.png" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px; margin-left: 100px;" width="280px"  />
+
+</div>
+
+</br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2015%20mins-blue)
