@@ -65,15 +65,18 @@ PHP                      2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
 
 
-### 📚📑 Books I'm currently reading 
+## 📚📑 Books I'm currently reading 
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
-### 🌟 I recently starred 🌟
+
 
 
 <div align="center">
-    
+
+<H2>
+   🌟 I recently starred 🌟
+</H2>
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/DoniaEsawi?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
