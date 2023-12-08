@@ -25,7 +25,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: "3"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
           SHOW_OS: "False"
           
           
