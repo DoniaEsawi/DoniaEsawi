@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+   
     - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
@@ -22,10 +22,10 @@ jobs:
           SHOW_LANGUAGE: "False"
           SHOW_EDITORS: "False"
           SHOW_PROJECTS: "False"
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: "3"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_OS: "False"
-          SECTION_NAME: "My current stats 📊"
+          
           
