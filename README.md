@@ -8,7 +8,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
@@ -30,7 +30,10 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     9 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.54 % 
+Dart                     7 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.43 % 
+Groovy                   5 mins              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.98 % 
+Gradle                   0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.06 % 
 ```
 
 
