@@ -1,11 +1,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=42&duration=1000&pause=0&color=00DB38&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&separator=;&lines=Hello%2C+tech+wizards!+%F0%9F%91%8B;This+is+Donia+(AKA+Regina+Phalange).)](https://git.io/typing-svg)
 
- <div align="center">As a highly motivated computer engineer, I am passionate about creating user-friendly web and mobile applications. My focus on creativity and innovation has led me to specialize in using Flutter and Adobe XD to design unique and engaging user experiences that exceed expectations. I am always eager to learn new technologies and frameworks to further improve my skills and stay up-to-date with industry trends.</p>
-</div>
+ <div align="center">
+  <p>
+   As a highly motivated computer engineer, I am passionate about creating user-friendly web and mobile applications. My focus on creativity and innovation has led me to specialize in using Flutter and Adobe XD to design unique and engaging user experiences that exceed expectations. I am always eager to learn new technologies and frameworks to further improve my skills and stay up-to-date with industry trends.
+  </p>
+
+  
+  
+[![Donia's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+ </div>
 
 
 </br>
+
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2029%20mins-blue)
