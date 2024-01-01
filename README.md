@@ -1,27 +1,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=42&duration=1000&pause=0&color=00DB38&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&separator=;&lines=Hello%2C+tech+wizards!+%F0%9F%91%8B;This+is+Donia+(AKA+Regina+Phalange).)](https://git.io/typing-svg)
 
- <div align="center">
   <p>
    As a highly motivated computer engineer, I am passionate about creating user-friendly web and mobile applications. My focus on creativity and innovation has led me to specialize in using Flutter and Adobe XD to design unique and engaging user experiences that exceed expectations. I am always eager to learn new technologies and frameworks to further improve my skills and stay up-to-date with industry trends.
   </p>
 
-  
-  
 
+## 📊 Some Stats About Me
 
-[![Donia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&theme=transparent&show_icons=true&title_color=00DB38&icon_color=00DB38&border_color=00DB38&hide_border=false&text_color=ffffff&include_all_commits=true&show=prs_merged#gh-dark-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-dark-mode-only)
+ [![Donia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&theme=transparent&show_icons=true&title_color=00DB38&icon_color=00DB38&border_color=00DB38&hide_border=false&text_color=ffffff&include_all_commits=true&show=prs_merged#gh-dark-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-dark-mode-only)
 
 [![Donia's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&theme=transparent&bg_color=ffffff&show_icons=true&title_color=00DB38&icon_color=00DB38&border_color=00DB38&hide_border=false&text_color=000000&include_all_commits=true&show=prs_merged#gh-light-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-light-mode-only)
+  
+
  
- </div>
-
-
-</br>
-
-
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2057%20mins-blue)
 
@@ -51,8 +43,8 @@ XML                      4 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 
+</div>
 
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
 
 
 ## 📚📑 Books I'm currently reading 
@@ -64,11 +56,9 @@ XML                      4 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
-<div align="center">
 
-<H2>
-   🌟 I recently starred 🌟
-</H2>
+
+## 🌟 Recently, I Starred 
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/DoniaEsawi?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
