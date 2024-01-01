@@ -15,12 +15,31 @@ to further improve my skills and stay up-to-date with industry trends.
 
 ## 📊 Some Stats About Me
 
+
+<table>
+ 
+<tr>
+<td>
+
  [![Donia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&theme=transparent&show_icons=true&title_color=00DB38&icon_color=00DB38&border_color=00DB38&hide_border=false&text_color=ffffff&include_all_commits=true&show=prs_merged#gh-dark-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-dark-mode-only)
 
 [![Donia's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&theme=transparent&bg_color=ffffff&show_icons=true&title_color=00DB38&icon_color=00DB38&border_color=00DB38&hide_border=false&text_color=000000&include_all_commits=true&show=prs_merged#gh-light-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-light-mode-only)
-  
+
+</td>
+
+<td>
+
+[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs?username=DoniaEsawi&hide=Jupyter%20Notebook,html,css,verilog&layout=donut&theme=transparent&border_color=00DB38&text_color=ffffff&title_color=00DB38#gh-dark-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs?username=DoniaEsawi&hide=Jupyter%20Notebook,html,css,verilog&layout=donut&theme=transparent&border_color=00DB38&text_color=000000&title_color=00DB38#gh-light-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-light-mode-only)
 
  
+</td>
+</tr>
+
+</table>
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2057%20mins-blue)
 
