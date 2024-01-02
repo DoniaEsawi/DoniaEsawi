@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=42&duration=3000&pause=0&color=00DB38&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&separator=;&lines=Hello%2C+tech+wizards!+%F0%9F%91%8B;This+is+Donia+(AKA+Regina+Phalange).)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=42&duration=2500&pause=0&color=00DB38&vCenter=true&multiline=true&repeat=false&random=false&width=900&height=150&separator=;&lines=Hello%2C+tech+wizards!+%F0%9F%91%8B;This+is+Donia+(AKA+Regina+Phalange).)](https://git.io/typing-svg)
 
 ## ℹ️ About Me
 
