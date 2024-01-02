@@ -15,9 +15,8 @@ to further improve my skills and stay up-to-date with industry trends.
 
 ## 📊 Some Stats About Me
 
-
+<div align=center>
 <table>
- 
 <tr>
 <td>
 
@@ -35,9 +34,12 @@ to further improve my skills and stay up-to-date with industry trends.
 
  
 </td>
-</tr>
 
+</tr>
 </table>
+
+<table>
+<td>
 
 
 <!--START_SECTION:waka-->
@@ -67,9 +69,12 @@ HTML                     1 hr 51 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 
+
+
+
+</td>
+</table>
 </div>
-
-
 
 ## 📚📑 Books I'm currently reading 
 <!-- GOODREADS-LIST:START -->
@@ -86,7 +91,6 @@ HTML                     1 hr 51 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 
 [![Last Stars Display](https://badges.pufler.dev/last-stars/DoniaEsawi?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
- </div>
 
 # Connect with me<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="40px">
 
