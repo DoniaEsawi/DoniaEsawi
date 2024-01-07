@@ -14,5 +14,5 @@ jobs:
         with:
           # Replace this with your goodreads user id
           goodreads_user_id: "172292705"
+          comment_tag_name: "READ-LIST"
           shelf: "read"
-          comment_tag_name: "GOODREADS-READ-LIST"
