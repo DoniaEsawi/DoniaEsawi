@@ -15,5 +15,5 @@ jobs:
         with:
           # Replace this with your goodreads user id
           goodreads_user_id: "172292705"
-          shelf: "to-read"
+          shelf: "currently-reading"
           
