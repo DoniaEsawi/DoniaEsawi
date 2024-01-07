@@ -27,5 +27,5 @@ jobs:
           SYMBOL_VERSION: "3"
           SHOW_LOC_CHART: "False"
           SHOW_OS: "False"
-          
+          SHOW_TOTAL_CODE_TIME: "False"
           
