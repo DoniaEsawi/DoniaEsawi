@@ -87,8 +87,8 @@ Git                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- GOODREADS-LIST:END -->
 
 ## 📚 Books I've finished reading
-<!--GOODREADS-READ-LIST:START-->
-<!--GOODREADS-READ-LIST:END-->
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
 
 
 
