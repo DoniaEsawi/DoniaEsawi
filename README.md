@@ -90,9 +90,8 @@ Git                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ## 📚 Books I've finished reading
 
-
-<!-- READ-LIST:START -->
-<!-- READ-LIST:END -->
+<!-- READ:START -->
+<!-- READ:END -->
 
 
 
