@@ -39,14 +39,11 @@ to further improve my skills and stay up-to-date with industry trends.
 <tr>
  <td colspan=2 >
 
-<center>
-
  
  [![GitHub Streak Dark](https://streak-stats.demolab.com/?user=DoniaEsawi&background=transparent&stroke=00DB38&border=00DB38&ring=00DB38&currStreakNum=00DB38&sideNums=00DB38&sideLabels=ffffff&dates=ffffff#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
   [![GitHub Streak Light](https://streak-stats.demolab.com/?user=DoniaEsawi&background=transparent&stroke=00DB38&border=00DB38&ring=00DB38&currStreakNum=00DB38&sideNums=00DB38&sideLabels=000000&dates=000000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
  
-</center>
 
 </td>
 </tr>
@@ -91,12 +88,8 @@ Git                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </td>
 </table>
 
-<table>
 
-
-
-</table>
-
+<div align="start"> 
 
 ## 📑 Books I'm currently reading 
 <!-- GOODREADS-LIST:START -->
@@ -140,7 +133,7 @@ Git                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 
+</div>
 
-    
 
 
