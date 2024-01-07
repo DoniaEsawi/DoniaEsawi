@@ -91,7 +91,7 @@ Git                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ## 📚 Books I've finished reading
 
 <!-- READ:START -->
-- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/6033325662?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava, My rating:(⭐️⭐⭐⭐⭐⭐)
+- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/6033325662?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava, My rating:(⭐⭐⭐⭐⭐)
 <!-- READ:END -->
 
 
