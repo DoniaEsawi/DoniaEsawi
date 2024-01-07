@@ -15,10 +15,9 @@ to further improve my skills and stay up-to-date with industry trends.
 
 ## 📊 Some Stats About Me
 
-<div align=center>
 <table>
 <tr>
-<td>
+<td align="center">
 
  [![Donia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DoniaEsawi&theme=transparent&show_icons=true&title_color=00DB38&icon_color=00DB38&border_color=00DB38&hide_border=false&text_color=ffffff&include_all_commits=true&show=prs_merged#gh-dark-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-dark-mode-only)
 
@@ -26,7 +25,7 @@ to further improve my skills and stay up-to-date with industry trends.
 
 </td>
 
-<td>
+<td align="center">
 
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs?username=DoniaEsawi&hide=Jupyter%20Notebook,html,css,verilog&layout=donut&theme=transparent&border_color=00DB38&text_color=ffffff&title_color=00DB38#gh-dark-mode-only)](https://github.com/DoniaEsawi/github-readme-stats#gh-dark-mode-only)
 
@@ -37,7 +36,7 @@ to further improve my skills and stay up-to-date with industry trends.
 
 </tr>
 <tr>
- <td colspan=2 >
+ <td colspan=2 align="center">
 
  
  [![GitHub Streak Dark](https://streak-stats.demolab.com/?user=DoniaEsawi&background=transparent&stroke=00DB38&border=00DB38&ring=00DB38&currStreakNum=00DB38&sideNums=00DB38&sideLabels=ffffff&dates=ffffff#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
@@ -49,7 +48,7 @@ to further improve my skills and stay up-to-date with industry trends.
 </tr>
 
 
-<td colspan = 2>
+<td colspan = 2 >
 
 
 <!--START_SECTION:waka-->
