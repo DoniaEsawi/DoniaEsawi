@@ -28,3 +28,4 @@ jobs:
           goodreads_user_id: "172292705"
           shelf: "read"
           comment_tag_name: "READ-LIST"
+          template: 	"- [$title]($url) by $author, My rating:(⭐️$my_rating_stars)"
