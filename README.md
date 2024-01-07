@@ -79,7 +79,7 @@ Git                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </table>
 </div>
 
-## 📚📑 Books I'm currently reading 
+## 📑 Books I'm currently reading 
 <!-- GOODREADS-LIST:START -->
 - [Head First Design Patterns](https://www.goodreads.com/review/show/6114123054?utm_medium=api&utm_source=rss) by Osaju Koga (⭐️5)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.goodreads.com/review/show/6114115270?utm_medium=api&utm_source=rss) by Georgia Weidman (⭐️4.19)
@@ -87,8 +87,9 @@ Git                      0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/6033325662?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
-
-
+## 📚 Books I've finished reading
+<!--GOODREADS-READ-LIST:START-->
+<!--GOODREADS-READ-LIST:END-->
 
 
 
