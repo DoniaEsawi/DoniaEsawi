@@ -26,6 +26,6 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: "3"
           SHOW_LOC_CHART: "False"
-          SHOW_OS: "False"
+          SHOW_OS: "True"
           SHOW_TOTAL_CODE_TIME: "False"
           
