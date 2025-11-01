@@ -89,8 +89,8 @@ No Activity Tracked This Week
 
 ## 📑 Books I'm currently reading 
 <!-- GOODREADS-LIST:START -->
-- [Head First Design Patterns](https://www.goodreads.com/review/show/6114123054?utm_medium=api&utm_source=rss) by Osaju Koga (⭐️4.65)
-- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.goodreads.com/review/show/6114115270?utm_medium=api&utm_source=rss) by Georgia Weidman (⭐️4.18)
+- [Head First Design Patterns](https://www.goodreads.com/review/show/6114123054?utm_medium=api&utm_source=rss) by Osaju Koga (⭐️4.67)
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.goodreads.com/review/show/6114115270?utm_medium=api&utm_source=rss) by Georgia Weidman (⭐️4.19)
 - [Head First Object-Oriented Analysis and Design](https://www.goodreads.com/review/show/6033326680?utm_medium=api&utm_source=rss) by Brett McLaughlin (⭐️3.98)
 <!-- GOODREADS-LIST:END -->
 
